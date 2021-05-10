@@ -1,0 +1,10 @@
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Abdessamad Traibiz\OneDrive\Documents\MES_ETUDES\3IIR_S6_EMSI\P.O.O\Mes_Projets\ProgrammationWindows\MathQuiz\obj\Debug\MathQuiz.pdb
